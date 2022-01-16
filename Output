@@ -1,0 +1,13 @@
+Enter the mark (0-100) for student 1: 
+60
+Enter the mark (0-100) for student 2: 
+105
+Invalid input, please try again.....
+Enter the mark (0-100) for student 2: 
+-10
+Invalid input, please try again.....
+Enter the mark (0-100) for student 2: 
+90
+Enter the mark (0-100) for student 3: 
+50
+Average : 66.67 
